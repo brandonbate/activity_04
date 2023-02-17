@@ -4,5 +4,5 @@ For this activity, you must complete the [Deployment Tutorial](https://github.co
 
 * [Chapter 9: Testing Deployment Using a Staging Site](https://www.youtube.com/embed/DYhNXXgNKwY)
 * [Chapter 10: Getting to a Production-Ready Deployment](https://youtu.be/rO4KfAl6N4g)
-*
+
 You do not need to upload anything to this repository. Just show me you completed this either in class or in my office.
